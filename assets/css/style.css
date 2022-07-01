@@ -9,7 +9,7 @@
     position: relative;
     font-family: "Goudy Bookletter 1911", sans-serif;
     font-size: 20px;
-    background-color: #FDF8F5;
+    background-color: #838180;
     color: #4F4846;
   }
   
@@ -38,19 +38,19 @@
     height: 60px;
     width: 100%;
     line-height: 60px;
-    background-color: #266150;
+    background-color: #0b7a66;
   }
   
   header {
     position: fixed;
-    border-bottom: 10px solid #DDAF94;
+    border-bottom: 10px solid #0b7a66;
   }
   
   footer {
     position: absolute;
     margin-top: 0;
     bottom: 0;
-    border-bottom: 10px solid #4F4846;
+    border-bottom: 10px solid #1a4646;
     color: #FDF8F5;    
   }
   
@@ -66,8 +66,8 @@
   section {
     margin-bottom: 0;
     padding: 20px 10px 40px 10px;
-    border-top: 3px solid #DDAF94;
-    background-color:  #E8CEBF;
+    border-top: 3px solid #b4e4f5;
+    background-color:  #b4e4f5;
   }
   
   form {
